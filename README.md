@@ -1,4 +1,4 @@
-# Services Hungry Food Restaurant
+# Hungry Food Restaurant
 
 
 [Live Website](https://hungry-food-restaurant-c324b.web.app/)
