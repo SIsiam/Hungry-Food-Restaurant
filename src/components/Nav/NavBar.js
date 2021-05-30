@@ -34,9 +34,8 @@ const NavBar = () => {
 
 	return (
 		<Items className="container nav-box">
-
-			<nav className="navbar navbar-expand-lg navbar-light bg-white py-2">
-				<div className="container">
+			<nav  className="navbar navbar-expand-lg navbar-light bg-white py-2">
+				<div  data-testid="test-1" className="container">
 					<Link to="/">
 						<img src={logo} alt="logo" className="img-fluid logo" />
 					</Link>
