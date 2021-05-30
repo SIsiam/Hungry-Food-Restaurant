@@ -1,0 +1,18 @@
+
+
+.my-card{
+    background-image: url(../../Image/img/quote.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 40px;
+}
+
+
+.my-card:hover{
+    background-image: url(../../Image/img/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 80px;
+    transition: 1.2s;
+    cursor: pointer;
+}
