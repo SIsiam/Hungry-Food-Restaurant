@@ -8,7 +8,7 @@ const Header = () => {
 			<div className="container text-center hero-content">
 				<div className="row justify-content-center">
 					<div className="col-md-8">
-						<h1 className="text-danger ">Hungrey Food A Seven Star Restaurent</h1>
+						<h1 className="text-light">Hungrey Food A Seven Star Restaurent</h1>
 					</div>
 				</div>
 			</div>
